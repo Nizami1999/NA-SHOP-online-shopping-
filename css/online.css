@@ -1,0 +1,107 @@
+body {
+    font-family: 'Caladea', serif;
+    font-family: 'Arvo', serif!important;
+
+}
+
+.bg-special {
+    background: url(../img/comeon.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.height-full {
+    min-height: 100vh;
+}
+
+.pasifico {
+    font-family: 'Pacifico', cursive;
+    color: black;
+    -webkit-text-stroke: 1px rgb(240, 224, 224);
+    -webkit-text-fill-color: rgb(172, 42, 42);}
+
+.bebas {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.text-ppp {
+    
+    background-image: linear-gradient(rgb(216, 10, 10),rgb(117, 18, 18), rgb(44, 7, 7), rgb(10, 1, 1));
+    -webkit-background-clip: text;  
+    color: transparent;
+}
+
+.img-fluid {
+    height: 600px;
+}
+
+
+.btn-50{
+    color: rgb(76, 8, 22);
+    border-color: rgb(30, 4, 9);
+}
+
+.bg-secondary-2 {
+    background-color: #90d5ec;
+    background-image: linear-gradient(315deg, #90d5ec 0%, #fc575e 74%);    
+}
+.into{
+    position: relative;
+    
+}
+
+.in {
+    position: absolute;
+    top: 0;
+    margin: 145px 270px;
+}
+
+.in2 {
+    position: absolute;
+    top: 0;
+    margin: 110px 50px;
+}
+
+.in3 {
+    position: absolute;
+    top: 0;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+
+.in4 {
+    position: absolute;
+    top: 0;
+    margin-left: 6px;
+    margin-top: 10px;
+    
+}
+
+.in5 {
+    position: absolute;
+    top: 0;
+    margin-bottom: 0;
+    margin-left: 40px;
+    margin-top: 476px;
+
+}
+
+.buttonr {
+    border-radius: 30px;
+    font-size: 20px;
+    border-color: darkgray;
+    width: 160px;
+}
+
+.heightos3{
+    height: 827.5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
